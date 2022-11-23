@@ -1,3 +1,5 @@
+// i needed to use the given solution to understand this, so i commented on it extensively.
+
 /** Node: node for a singly linked list. */
 
 class Node {
